@@ -1,0 +1,6 @@
+meter_id,location,consumption,unit,start_date,end_date,tariff
+MTR-001,HQ Mumbai,45000,kWh,2024-01-01,2024-01-31,C2-Commercial
+MTR-001,HQ Mumbai,51000,kWh,2024-02-01,2024-02-29,C2-Commercial
+MTR-002,Factory Pune,120,MWh,2024-03-01,2024-03-31,HT-Industrial
+MTR-003,Office Delhi,18500,kWh,2024-01-01,2024-01-31,C1-Commercial
+MTR-003,Office Delhi,19200,kWh,2024-02-01,2024-02-29,C1-Commercial

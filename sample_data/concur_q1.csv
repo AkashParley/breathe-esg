@@ -1,0 +1,8 @@
+expense_type,date,employee,origin,destination,distance_km,nights,location
+flight,2024-01-20,Rahul Sharma,DEL,LHR,6700,,
+flight,2024-02-05,Priya Patel,BOM,BLR,1150,,
+flight,2024-02-18,Amit Kumar,BLR,SIN,3500,,
+hotel,2024-01-20,Rahul Sharma,,,, 3,London
+hotel,2024-02-18,Amit Kumar,,,,2,Singapore
+taxi,2024-01-23,Rahul Sharma,,,45,,London
+train,2024-02-07,Priya Patel,,,12,,Bangalore
