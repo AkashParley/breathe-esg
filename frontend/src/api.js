@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: 'http://127.0.0.1:8000/api',
+  baseURL: 'https://breathe-esg-2ec3.onrender.com/api',
 })
 
 api.interceptors.request.use(config => {
@@ -18,7 +18,7 @@ api.interceptors.response.use(
       if (refresh) {
         try {
           const res = await axios.post(
-            'http://127.0.0.1:8000/api/auth/refresh/',
+            'https://breathe-esg-2ec3.onrender.com/api/auth/refresh/',
             { refresh }
           )
           localStorage.setItem('access_token', res.data.access)
