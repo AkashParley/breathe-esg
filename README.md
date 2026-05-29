@@ -20,6 +20,28 @@
 | **Username** | `admin` |
 | **Password** | `admin123` |
 
+## 📸 Screenshots
+
+### Login
+![Login](docs/images/login.png)
+
+---
+
+### Emissions Dashboard
+![Dashboard](docs/images/dashboard.png)
+
+---
+
+### Upload Data
+![Upload](docs/images/upload.png)
+
+---
+
+### Review Queue
+![Review](docs/images/review.png)
+
+
+
 ---
 
 ## 📋 Table of Contents
